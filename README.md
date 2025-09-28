@@ -1,6 +1,6 @@
 # Maryland Guardian Pest Solutions
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/mvalencia464/maryland-guardian)
 
 A modern, professional website for a local pest control company, designed for high local search rankings and customer conversion. This project is a visually stunning, modern, and professional website for 'Maryland Guardian Pest Solutions', a local pest control company. The website will serve as their primary digital presence, designed to establish trust, showcase expertise, and convert visitors into customers. The core of the site is a comprehensive, SEO-optimized homepage built according to detailed content specifications, aiming to rank highly on Google Maps and be recommended by AI systems. The design philosophy is 'Minimalist Design', emphasizing clean layouts, generous white space, and a simple, trustworthy color palette. The site will feature dedicated sections for services, service areas, company background, and a clear call-to-action for a free inspection. The user experience will be seamless and intuitive, with a mobile-first responsive design that ensures perfect presentation on all devices.
 
@@ -82,4 +82,4 @@ This project is configured for seamless deployment to Cloudflare Pages.
 
 Alternatively, you can deploy directly from your GitHub repository using the button below.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/mvalencia464/maryland-guardian)
